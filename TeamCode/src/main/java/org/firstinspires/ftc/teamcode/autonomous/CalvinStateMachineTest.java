@@ -1,7 +1,7 @@
 package org.firstinspires.ftc.teamcode.autonomous;
 
 import java.util.Scanner;
-
+/*
 abstract class State {
     static State CURRENT, PARK, DRIVE_TO_POSITION, READY_SHOOTER, RELEASE_PROJECTILE, FIRE_SHOOTER;
 
@@ -110,3 +110,5 @@ public class CalvinStateMachineTest {
         }
     }
 }
+
+ */
